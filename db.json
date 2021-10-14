@@ -2,9 +2,21 @@
 	"robots": [
 		{
 			"id": "QmSmzQetPNA8UTprcxFearJwhdZSN145NxdR9LUVGdS8qE",
+			"description": "Bronze Box",
+			"image": "https://gateway.pinata.cloud/ipfs/QmXpurfbnnUEzGd8Z3X8gT62TyTXniTU5TYgFCv3zwGFQa",
+			"name": "Bronze Box"
+		},
+		{
+			"id": "QmSmzQetPNA8UTprcxFearJwhdZSN145NxdR9LUVGdS8qE",
 			"description": "Gold Box",
 			"image": "https://gateway.pinata.cloud/ipfs/QmQeRuCm9hUykNFbPM1MzS6SEvj39T6c71Zew5Rjdm6wuD",
 			"name": "Gold Box"
+		},
+		{
+			"id": "QmfHNwvruJXudy2nCZ6xwDA9ZJ36doPRo5gbWp21b2miQE",
+			"description": "Platinum Box",
+			"image": "https://gateway.pinata.cloud/ipfs/QmPGqna6Pu9RJxzay8WUZsDMjUuTa8LR3sCeNZCTKTVbzD",
+			"name": "Platinum Box"
 		},
 		{
 			"id": 3,
