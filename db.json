@@ -1,52 +1,52 @@
-[
+{
 	"robots": [
-	{
-		"id": 1,
-		"attributes": [
-			{
-				"trait_type": "Specie",
-				"value": "Human"
-			},
-			{
-				"trait_type": "color",
-				"value": "Blue"
-			}
-		],
-		"description": "Blue human",
-		"image": "https://gateway.pinata.cloud/ipfs/QmTw6411YxHad8NHzZbWuGkXuevKiKT27e3FTPLoFngiPk",
-		"name": "Human 1"
-	},
-	{
-		"id": 2,
-		"attributes": [
-			{
-				"trait_type": "Specie",
-				"value": "Human"
-			},
-			{
-				"trait_type": "color",
-				"value": "Red"
-			}
-		],
-		"description": "Red human",
-		"image": "https://gateway.pinata.cloud/ipfs/QmWUp4uuJBTGnmoxg8vh7o9b6Yf8xPkTZs3sX1EhctBYis",
-		"name": "Human 2"
-	},
-	{
-		"id": 3,
-		"attributes": [
-			{
-				"trait_type": "Specie",
-				"value": "Mouse"
-			},
-			{
-				"trait_type": "color",
-				"value": "Yellow"
-			}
-		],
-		"description": "Yellow mouse",
-		"image": "https://gateway.pinata.cloud/ipfs/QmcbYHBhmRjCp7FaDUPrXifWku2dVszGutBq6p3WXsyPdZ",
-		"name": "Mouse 3"
-	}
+		{
+			"id": 1,
+			"attributes": [
+				{
+					"trait_type": "Specie",
+					"value": "Human"
+				},
+				{
+					"trait_type": "color",
+					"value": "Blue"
+				}
+			],
+			"description": "Blue human",
+			"image": "https://gateway.pinata.cloud/ipfs/QmTw6411YxHad8NHzZbWuGkXuevKiKT27e3FTPLoFngiPk",
+			"name": "Human 1"
+		},
+		{
+			"id": 2,
+			"attributes": [
+				{
+					"trait_type": "Specie",
+					"value": "Human"
+				},
+				{
+					"trait_type": "color",
+					"value": "Red"
+				}
+			],
+			"description": "Red human",
+			"image": "https://gateway.pinata.cloud/ipfs/QmWUp4uuJBTGnmoxg8vh7o9b6Yf8xPkTZs3sX1EhctBYis",
+			"name": "Human 2"
+		},
+		{
+			"id": 3,
+			"attributes": [
+				{
+					"trait_type": "Specie",
+					"value": "Mouse"
+				},
+				{
+					"trait_type": "color",
+					"value": "Yellow"
+				}
+			],
+			"description": "Yellow mouse",
+			"image": "https://gateway.pinata.cloud/ipfs/QmcbYHBhmRjCp7FaDUPrXifWku2dVszGutBq6p3WXsyPdZ",
+			"name": "Mouse 3"
+		}
 	]
-]
+}
