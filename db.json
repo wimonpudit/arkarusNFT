@@ -1,22 +1,60 @@
 {
 	"robots": [
 		{
-			"id": 1,
-			"description": "Blue human",
-			"image": "https://gateway.pinata.cloud/ipfs/QmTw6411YxHad8NHzZbWuGkXuevKiKT27e3FTPLoFngiPk",
-			"name": "Human 1"
-		},
-		{
-			"id": 2,
-			"description": "Red human",
-			"image": "https://gateway.pinata.cloud/ipfs/QmWUp4uuJBTGnmoxg8vh7o9b6Yf8xPkTZs3sX1EhctBYis",
-			"name": "Human 2"
-		},
-		{
 			"id": 3,
-			"description": "Yellow mouse",
+			"robot_uniqueId": 1,
+			"description": "Common Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmTw6411YxHad8NHzZbWuGkXuevKiKT27e3FTPLoFngiPk",
+			"name": "Common Robot"
+		},
+		{
+			"id": 4,
+			"robot_uniqueId": 2,
+			"description": "Common Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmTw6411YxHad8NHzZbWuGkXuevKiKT27e3FTPLoFngiPk",
+			"name": "Common Robot"
+		},
+		{
+			"id": 5,
+			"robot_uniqueId": 3,
+			"description": "Common Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmTw6411YxHad8NHzZbWuGkXuevKiKT27e3FTPLoFngiPk",
+			"name": "Common Robot"
+		},
+		{
+			"id": 6,
+			"robot_uniqueId": 4,
+			"description": "Uncommon Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmWUp4uuJBTGnmoxg8vh7o9b6Yf8xPkTZs3sX1EhctBYis",
+			"name": "Uncommon Robot"
+		},
+		{
+			"id": 7,
+			"robot_uniqueId": 5,
+			"description": "Rare Robot",
 			"image": "https://gateway.pinata.cloud/ipfs/QmcbYHBhmRjCp7FaDUPrXifWku2dVszGutBq6p3WXsyPdZ",
-			"name": "Mouse 3"
+			"name": "Rare Robot"
+		},
+		{
+			"id": 8,
+			"robot_uniqueId": 6,
+			"description": "Rare Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmcbYHBhmRjCp7FaDUPrXifWku2dVszGutBq6p3WXsyPdZ",
+			"name": "Rare Robot"
+		},
+		{
+			"id": 9,
+			"robot_uniqueId": 7,
+			"description": "Rare Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmcbYHBhmRjCp7FaDUPrXifWku2dVszGutBq6p3WXsyPdZ",
+			"name": "Rare Robot"
+		},
+		{
+			"id": 10,
+			"robot_uniqueId": 8,
+			"description": "Epic Robot",
+			"image": "https://gateway.pinata.cloud/ipfs/QmW9v81teHsjhxjTUeUGC1M7VauYczFfiPTKG1kgvaTkh8",
+			"name": "Epic Robot"
 		}
 	]
 }
