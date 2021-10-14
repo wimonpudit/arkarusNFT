@@ -1,6 +1,12 @@
 {
 	"robots": [
 		{
+			"id": "QmSmzQetPNA8UTprcxFearJwhdZSN145NxdR9LUVGdS8qE",
+			"description": "Gold Box",
+			"image": "https://gateway.pinata.cloud/ipfs/QmQeRuCm9hUykNFbPM1MzS6SEvj39T6c71Zew5Rjdm6wuD",
+			"name": "Gold Box"
+		},
+		{
 			"id": 3,
 			"robot_uniqueId": 1,
 			"description": "Common Robot",
